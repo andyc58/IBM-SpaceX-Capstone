@@ -1,2 +1,2 @@
-# IBM SpaceX Project
- This is my final project from the IBM Data Science Proefessional Certification on Coursera
+# IBM SpaceX Capstone
+ My final project for the IBM Data Science Professional certification course on Coursera
